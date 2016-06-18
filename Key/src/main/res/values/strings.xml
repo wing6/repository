@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">K音乐</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string name="title_activity_main">欢迎使用本播放器~V.V~</string>
+
+    <string name="title_activity_welcome">welcome</string>
+</resources>
